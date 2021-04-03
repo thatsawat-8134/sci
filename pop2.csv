@@ -1,0 +1,16 @@
+﻿city,gender,age,population
+
+A,male,child,500
+A,male,adult,1500
+A,female,child,400
+A,female,adult,1800
+
+B,male,child,600
+B,male,adult,1200
+B,female,child,400
+B,female,adult,1700
+
+C,male,child,200
+C,male,adult,800
+C,female,child,300
+C,female,adult,1200
